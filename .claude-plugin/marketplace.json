@@ -1,0 +1,11 @@
+{
+  "name": "sangsuryu-plugins",
+  "owner": {
+    "name": "Sangsu Ryu",
+    "email": "zx0342@gmail.com"
+  },
+  "metadata": {
+    "description": "Sangsu Ryu's personal agent skills"
+  },
+  "plugins": []
+}
