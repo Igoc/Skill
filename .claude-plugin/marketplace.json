@@ -7,5 +7,14 @@
   "metadata": {
     "description": "Sangsu Ryu's personal agent skills"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "writing-guide",
+      "description": "사람이 읽을 글을 쓰거나 고칠 때 지키는 글쓰기 규칙",
+      "version": "0.1.0",
+      "source": "./skills/writing-guide",
+      "skills": ["./"],
+      "strict": false
+    }
+  ]
 }
